@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutboundCall", "OutboundCall\OutboundCall.csproj", "{C50B9B3B-99AE-4275-9AB9-7D66FB2C57AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InboundCall", "InboundCall\InboundCall.csproj", "{E2D03F7F-AC47-4B95-B443-EE109F2DD09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50B9B3B-99AE-4275-9AB9-7D66FB2C57AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50B9B3B-99AE-4275-9AB9-7D66FB2C57AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50B9B3B-99AE-4275-9AB9-7D66FB2C57AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50B9B3B-99AE-4275-9AB9-7D66FB2C57AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D03F7F-AC47-4B95-B443-EE109F2DD09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D03F7F-AC47-4B95-B443-EE109F2DD09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D03F7F-AC47-4B95-B443-EE109F2DD09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D03F7F-AC47-4B95-B443-EE109F2DD09D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6A31BC-FCE9-498B-A16C-9EA634C90096}
+	EndGlobalSection
+EndGlobal
